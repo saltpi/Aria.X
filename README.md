@@ -44,8 +44,8 @@ AriaX is designed with privacy in mind. We do not collect your download history 
 
 ### License & Credits
 
-- **AriaX** is licensed under the [GNU GPLv2](LICENSE).
-- **aria2**: This project includes and integrates [aria2](https://github.com/aria2/aria2), which is licensed under GNU GPLv2.
+- **Aria2Helper**: This component is open-source and licensed under the [GNU GPLv2](Aria2Helper/LICENSE).
+- **aria2**: The core engine [aria2](https://github.com/aria2/aria2) is licensed under GNU GPLv2.
 - **AriaNg**: The web interface is based on [AriaNg](https://github.com/mayswind/AriaNg), which is licensed under the MIT License.
 
 ---
