@@ -42,6 +42,12 @@ AriaX 是一款专为 Apple 生态（macOS 与 iOS）打造的现代化、高性
 
 AriaX 始终将用户隐私放在首位。我们不会收集您的下载历史、敏感配置或服务器凭据。所有数据均存储在您的本地设备上，或在您开启同步后存储于您的私有 iCloud 容器中。
 
+### 开源协议与致谢
+
+- **AriaX** 基于 [GNU GPLv2](LICENSE) 协议开源。
+- **aria2**: 本项目集成并分发了 [aria2](https://github.com/aria2/aria2)，其遵循 GNU GPLv2 协议。
+- **AriaNg**: Web 界面基于 [AriaNg](https://github.com/mayswind/AriaNg) 构建，其遵循 MIT 协议。
+
 ---
 
 © 2026 AriaX. All rights reserved.
